@@ -151,3 +151,7 @@ Flight::group('/oauth2', static function (): void {
   Flight::route('GET /github', [OAuth2Controller::class, 'github'], true)->setAlias('oauth2.github');
   Flight::route('GET /google', [OAuth2Controller::class, 'google'], true)->setAlias('oauth2.google');
 }, [RedirectIfAuthenticated::class]);
+
+Flight::map('notFound', static function (): void {
+  Flight::render('pages-misc-error');
+});
