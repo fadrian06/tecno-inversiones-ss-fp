@@ -1,0 +1,5 @@
+*.log
+*.sqlite
+*.sublime-*
+.env.php
+/vendor
