@@ -17,7 +17,12 @@ final readonly class ComingSoonController extends Controller
   {
     $validatedData = $this->validate(['email' => 'email']);
 
-    auth()->db()->insert('coming_soon_emails')->unique('email')->params($validatedData)->execute();
+    auth()
+      ->db()
+      ->insert('coming_soon_emails')
+      ->unique('email')
+      ->params($validatedData)
+      ->execute();
 
     if (auth()->db()->errors()) {
       flash()->set(auth()->db()->errors());
