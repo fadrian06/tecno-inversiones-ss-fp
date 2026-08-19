@@ -73,7 +73,7 @@ Container::getInstance()->singleton(PHPMailer::class, static function (): PHPMai
 });
 
 Flight::set('flight.handle_errors', false);
-Flight::set('flight.views.path', __DIR__ . '/html/vertical-menu-template');
+Flight::set('flight.views.path', __DIR__);
 Flight::registerContainerHandler(Container::getInstance());
 
 require_once __DIR__ . '/routes/web.php';

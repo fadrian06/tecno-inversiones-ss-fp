@@ -14,7 +14,7 @@ final readonly class ForgotPasswordController extends Controller
 
   public function render(): void
   {
-    Flight::render('auth-forgot-password-basic');
+    Flight::render('html/vertical-menu-template/auth-forgot-password-basic');
   }
 
   public function sendCode(): void

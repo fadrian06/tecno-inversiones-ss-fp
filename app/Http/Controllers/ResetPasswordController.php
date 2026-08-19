@@ -12,7 +12,7 @@ final readonly class ResetPasswordController extends Controller
   public function render(): void
   {
     $this->validateHash();
-    Flight::render('auth-reset-password-basic');
+    Flight::render('html/vertical-menu-template/auth-reset-password-basic');
   }
 
   public function resetPassword(): void

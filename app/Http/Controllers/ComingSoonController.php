@@ -10,7 +10,7 @@ final readonly class ComingSoonController extends Controller
 {
   public function render(): void
   {
-    Flight::render('pages-misc-comingsoon');
+    Flight::render('html/vertical-menu-template/pages-misc-comingsoon');
   }
 
   public function subscribe(): void

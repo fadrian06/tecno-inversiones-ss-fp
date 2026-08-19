@@ -21,12 +21,12 @@ Flight::group('/html/vertical-menu-template', static function (): void {
   })->addMiddleware(Authenticate::class);
 
   Flight::route('GET /app-ecommerce-dashboard.html', static function (): void {
-    Flight::render('app-ecommerce-dashboard');
+    Flight::render('html/vertical-menu-template/app-ecommerce-dashboard');
   })->addMiddleware(Authenticate::class);
 
   Flight::group('/auth-login-basic.html', static function (): void {
     Flight::route('GET /', static function (): void {
-      Flight::render('auth-login-basic');
+      Flight::render('html/vertical-menu-template/auth-login-basic');
     });
 
     Flight::route('POST /', [Login::class, '__invoke']);
@@ -34,7 +34,7 @@ Flight::group('/html/vertical-menu-template', static function (): void {
 
   Flight::group('/auth-register-basic.html', static function (): void {
     Flight::route('GET /', static function (): void {
-      Flight::render('auth-register-basic');
+      Flight::render('html/vertical-menu-template/auth-register-basic');
     });
 
     Flight::route('POST /', [Register::class, '__invoke']);
@@ -153,5 +153,5 @@ Flight::group('/oauth2', static function (): void {
 }, [RedirectIfAuthenticated::class]);
 
 Flight::map('notFound', static function (): void {
-  Flight::render('pages-misc-error');
+  Flight::render('html/vertical-menu-template/pages-misc-error');
 });
