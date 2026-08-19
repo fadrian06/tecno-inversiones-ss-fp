@@ -17,7 +17,7 @@ Flight::route('GET /', static function (): void {})
 
 Flight::group('/html/vertical-menu-template', static function (): void {
   Flight::route('GET /index.html', static function (): void {
-    Flight::render('index');
+    Flight::render('html/vertical-menu-template/index');
   })->addMiddleware(Authenticate::class);
 
   Flight::route('GET /app-ecommerce-dashboard.html', static function (): void {
