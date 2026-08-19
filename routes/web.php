@@ -56,6 +56,10 @@ Flight::group('/html/vertical-menu-template', static function (): void {
     Flight::route('GET /', [ComingSoonController::class, 'render']);
     Flight::route('POST /', [ComingSoonController::class, 'subscribe']);
   });
+
+  Flight::route('GET /@page.html', static function (string $page): void {
+    Flight::render("html/vertical-menu-template/$page");
+  });
 });
 
 Flight::group('/oauth2', static function (): void {
