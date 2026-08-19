@@ -16,15 +16,15 @@ Flight::route('GET /', static function (): void {})
   ->addMiddleware(RedirectIfAuthenticated::class);
 
 Flight::group('/html/vertical-menu-template', static function (): void {
-  Flight::route('GET /index.html', static function (): void {
+  Flight::route('GET /(index(.html))', static function (): void {
     Flight::render('html/vertical-menu-template/index');
   })->addMiddleware(Authenticate::class);
 
-  Flight::route('GET /app-ecommerce-dashboard.html', static function (): void {
+  Flight::route('GET /app-ecommerce-dashboard(.html)', static function (): void {
     Flight::render('html/vertical-menu-template/app-ecommerce-dashboard');
   })->addMiddleware(Authenticate::class);
 
-  Flight::group('/auth-login-basic.html', static function (): void {
+  Flight::group('/auth-login-basic(.html)', static function (): void {
     Flight::route('GET /', static function (): void {
       Flight::render('html/vertical-menu-template/auth-login-basic');
     });
@@ -32,7 +32,7 @@ Flight::group('/html/vertical-menu-template', static function (): void {
     Flight::route('POST /', [Login::class, '__invoke']);
   }, [RedirectIfAuthenticated::class]);
 
-  Flight::group('/auth-register-basic.html', static function (): void {
+  Flight::group('/auth-register-basic(.html)', static function (): void {
     Flight::route('GET /', static function (): void {
       Flight::render('html/vertical-menu-template/auth-register-basic');
     });
@@ -40,19 +40,19 @@ Flight::group('/html/vertical-menu-template', static function (): void {
     Flight::route('POST /', [Register::class, '__invoke']);
   }, [RedirectIfAuthenticated::class]);
 
-  Flight::route('GET /auth-login-cover.html', [Logout::class, '__invoke']);
+  Flight::route('GET /auth-login-cover(.html)', [Logout::class, '__invoke']);
 
-  Flight::group('/auth-forgot-password-basic.html', static function (): void {
+  Flight::group('/auth-forgot-password-basic(.html)', static function (): void {
     Flight::route('GET /', [ForgotPasswordController::class, 'render']);
     Flight::route('POST /', [ForgotPasswordController::class, 'sendCode']);
   }, [RedirectIfAuthenticated::class]);
 
-  Flight::group('/auth-reset-password-basic.html', static function (): void {
+  Flight::group('/auth-reset-password-basic(.html)', static function (): void {
     Flight::route('GET /', [ResetPasswordController::class, 'render']);
     Flight::route('POST /', [ResetPasswordController::class, 'resetPassword']);
   }, [RedirectIfAuthenticated::class]);
 
-  Flight::group('/pages-misc-comingsoon.html', static function (): void {
+  Flight::group('/pages-misc-comingsoon(.html)', static function (): void {
     Flight::route('GET /', [ComingSoonController::class, 'render']);
     Flight::route('POST /', [ComingSoonController::class, 'subscribe']);
   });
