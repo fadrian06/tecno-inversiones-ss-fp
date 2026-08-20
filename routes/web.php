@@ -2,11 +2,21 @@
 
 declare(strict_types=1);
 
+use App\Http\Controllers\{
+  AccountSettingsController,
+  ComingSoonController,
+  ForgotPasswordController,
+  ResetPasswordController,
+};
+
 use App\Http\Controllers\Auth\{Login, Logout, OAuth2Controller, Register};
-use App\Http\Controllers\ComingSoonController;
-use App\Http\Controllers\ForgotPasswordController;
-use App\Http\Controllers\ResetPasswordController;
-use App\Http\Middleware\{Authenticate, NotifyComingSoonEmails, RedirectIfAuthenticated};
+
+use App\Http\Middleware\{
+  Authenticate,
+  NotifyComingSoonEmails,
+  RedirectIfAuthenticated,
+};
+
 use flight\Container;
 use Leaf\Log;
 use PHPMailer\PHPMailer\PHPMailer;
@@ -23,6 +33,11 @@ Flight::group('/html/vertical-menu-template', static function (): void {
   Flight::route('GET /app-ecommerce-dashboard(.html)', static function (): void {
     Flight::render('html/vertical-menu-template/app-ecommerce-dashboard');
   })->addMiddleware(Authenticate::class);
+
+  Flight::group('/pages-account-settings-', static function (): void {
+    Flight::route('GET @page.html', [AccountSettingsController::class, 'render']);
+    Flight::route('POST account(.html)', [AccountSettingsController::class, 'update']);
+  }, [Authenticate::class]);
 
   Flight::group('/auth-login-basic(.html)', static function (): void {
     Flight::route('GET /', static function (): void {
