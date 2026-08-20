@@ -1747,25 +1747,9 @@
           
   <div class="row">
     <div class="col-md-12">
-      <div class="nav-align-top">
-        <ul class="nav nav-pills flex-column flex-md-row mb-6 gap-md-0 gap-2">
-          <li class="nav-item">
-            <a class="nav-link active" href="javascript:void(0);"><i class="icon-base bx bx-user icon-sm me-1_5"></i> Cuenta</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-security.html"><i class="icon-base bx bx-lock-alt icon-sm me-1_5"></i> Seguridad</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-billing.html"><i class="icon-base bx bx-detail icon-sm me-1_5"></i> Facturación & Planes</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-notifications.html"><i class="icon-base bx bx-bell icon-sm me-1_5"></i> Notificaciones</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-connections.html"><i class="icon-base bx bx-link-alt icon-sm me-1_5"></i> Conexiones</a>
-          </li>
-        </ul>
-      </div>
+      <?php Flight::render('resources/views/components/account-settings-nav', [
+        'activeLink' => 'account',
+      ]) ?>
       <div class="card mb-6">
         <!-- Account -->
         <div class="card-body">
