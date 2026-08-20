@@ -1447,29 +1447,7 @@
 
       
         <!-- Style Switcher -->
-        <li class="nav-item dropdown me-2 me-xl-0">
-          <a class="nav-link dropdown-toggle hide-arrow" id="nav-theme" href="javascript:void(0);" data-bs-toggle="dropdown">
-            <i class="icon-base bx bx-sun icon-md theme-icon-active"></i>
-            <span class="d-none ms-2" id="nav-theme-text">Alternar tema</span>
-          </a>
-          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-theme-text">
-            <li>
-              <button type="button" class="dropdown-item align-items-center active" data-bs-theme-value="light" aria-pressed="false">
-                <span><i class="icon-base bx bx-sun icon-md me-3" data-icon="sun"></i>Claro</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="dark" aria-pressed="true">
-                <span><i class="icon-base bx bx-moon icon-md me-3" data-icon="moon"></i>Oscuro</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="system" aria-pressed="false">
-                <span><i class="icon-base bx bx-desktop icon-md me-3" data-icon="desktop"></i>Sistema</span>
-              </button>
-            </li>
-          </ul>
-        </li>
+        <?php Flight::render('resources/views/components/style-switcher') ?>
         <!-- / Style Switcher-->
       
 
@@ -1750,79 +1728,7 @@
       </li>
       <!--/ Notification -->
       <!-- User -->
-      <li class="nav-item navbar-dropdown dropdown-user dropdown">
-        <a class="nav-link dropdown-toggle hide-arrow p-0" href="javascript:void(0);" data-bs-toggle="dropdown">
-          <div class="avatar avatar-online">
-            <img
-              src="<?= auth()->user()->get()['avatar']
-                ? ('data:image/png;base64,' . base64_encode(auth()->user()->get()['avatar']))
-                : '../../assets/img/avatars/1.png'
-              ?>"
-              alt
-              class="rounded-circle"
-            />
-          </div>
-        </a>
-        <ul class="dropdown-menu dropdown-menu-end">
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html">
-              <div class="d-flex">
-                <div class="flex-shrink-0 me-3">
-                  <div class="avatar avatar-online">
-                    <img
-                      src="<?= auth()->user()->get()['avatar']
-                        ? ('data:image/png;base64,' . base64_encode(auth()->user()->get()['avatar']))
-                        : '../../assets/img/avatars/1.png'
-                      ?>"
-                      alt
-                      class="w-px-40 h-auto rounded-circle"
-                    />
-                  </div>
-                </div>
-                <div class="flex-grow-1">
-                  <h6 class="mb-0">
-                    <?= auth()->user()->get()['name'] ?>
-                    <?= auth()->user()->get()['surname'] ?>
-                  </h6>
-                  <small class="text-body-secondary">Administrador</small>
-                </div>
-              </div>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-profile-user.html"> <i class="icon-base bx bx-user icon-md me-3"></i><span>Mi Perfil</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html"> <i class="icon-base bx bx-cog icon-md me-3"></i><span>Ajustes</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-billing.html">
-              <span class="d-flex align-items-center align-middle">
-                <i class="flex-shrink-0 icon-base bx bx-credit-card icon-md me-3"></i><span class="flex-grow-1 align-middle">Plan de Facturación</span>
-                <span class="flex-shrink-0 badge rounded-pill bg-danger ms-3">4</span>
-              </span>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-pricing.html"> <i class="icon-base bx bx-dollar icon-md me-3"></i><span>Precios</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-faq.html"> <i class="icon-base bx bx-help-circle icon-md me-3"></i><span>Preguntas Frecuentes</span> </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="auth-login-cover.html"> <i class="icon-base bx bx-power-off icon-md me-3"></i><span>Salir</span> </a>
-          </li>
-        </ul>
-      </li>
+      <?php Flight::render('resources/views/components/dropdown-user') ?>
       <!--/ User -->
     
   </ul>
