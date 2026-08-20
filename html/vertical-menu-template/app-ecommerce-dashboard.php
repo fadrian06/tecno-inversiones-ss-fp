@@ -1423,22 +1423,22 @@
         <ul class="dropdown-menu dropdown-menu-end">
           <li>
             <a class="dropdown-item" href="javascript:void(0);" data-language="en" data-text-direction="ltr">
-              <span>Inglés</span>
+              <span>English</span>
             </a>
           </li>
           <li>
             <a class="dropdown-item" href="javascript:void(0);" data-language="fr" data-text-direction="ltr">
-              <span>Francés</span>
+              <span>French</span>
             </a>
           </li>
           <li>
             <a class="dropdown-item" href="javascript:void(0);" data-language="ar" data-text-direction="rtl">
-              <span>Árabe</span>
+              <span>Arabic</span>
             </a>
           </li>
           <li>
             <a class="dropdown-item" href="javascript:void(0);" data-language="de" data-text-direction="ltr">
-              <span>Alemán</span>
+              <span>German</span>
             </a>
           </li>
         </ul>
