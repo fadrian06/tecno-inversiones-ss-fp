@@ -69,7 +69,7 @@
     <meta name="robots" content="noindex, nofollow" />
 
     
-      <title>Demo: User Profile - Profile | Sneat - Bootstrap Dashboard PRO</title>
+      <title>Demo: Perfil de Usuario - Perfil | Sneat - Bootstrap Dashboard PRO</title>
     
 
     
@@ -108,7 +108,7 @@
     <!-- Fonts -->
     
     
-    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}</style>
+    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}</style>
 
     <link rel="stylesheet" href="../../assets/vendor/fonts/iconify-icons.css" />
 
@@ -1446,29 +1446,7 @@
 
       
         <!-- Style Switcher -->
-        <li class="nav-item dropdown me-2 me-xl-0">
-          <a class="nav-link dropdown-toggle hide-arrow" id="nav-theme" href="javascript:void(0);" data-bs-toggle="dropdown">
-            <i class="icon-base bx bx-sun icon-md theme-icon-active"></i>
-            <span class="d-none ms-2" id="nav-theme-text">Toggle theme</span>
-          </a>
-          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-theme-text">
-            <li>
-              <button type="button" class="dropdown-item align-items-center active" data-bs-theme-value="light" aria-pressed="false">
-                <span><i class="icon-base bx bx-sun icon-md me-3" data-icon="sun"></i>Light</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="dark" aria-pressed="true">
-                <span><i class="icon-base bx bx-moon icon-md me-3" data-icon="moon"></i>Dark</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="system" aria-pressed="false">
-                <span><i class="icon-base bx bx-desktop icon-md me-3" data-icon="desktop"></i>System</span>
-              </button>
-            </li>
-          </ul>
-        </li>
+        <?php Flight::render('resources/views/components/style-switcher') ?>
         <!-- / Style Switcher-->
       
 
@@ -1749,62 +1727,7 @@
       </li>
       <!--/ Notification -->
       <!-- User -->
-      <li class="nav-item navbar-dropdown dropdown-user dropdown">
-        <a class="nav-link dropdown-toggle hide-arrow p-0" href="javascript:void(0);" data-bs-toggle="dropdown">
-          <div class="avatar avatar-online">
-            <img src="../../assets/img/avatars/1.png" alt class="rounded-circle" />
-          </div>
-        </a>
-        <ul class="dropdown-menu dropdown-menu-end">
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html">
-              <div class="d-flex">
-                <div class="flex-shrink-0 me-3">
-                  <div class="avatar avatar-online">
-                    <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
-                  </div>
-                </div>
-                <div class="flex-grow-1">
-                  <h6 class="mb-0">John Doe</h6>
-                  <small class="text-body-secondary">Admin</small>
-                </div>
-              </div>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-profile-user.html"> <i class="icon-base bx bx-user icon-md me-3"></i><span>My Profile</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html"> <i class="icon-base bx bx-cog icon-md me-3"></i><span>Settings</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-billing.html">
-              <span class="d-flex align-items-center align-middle">
-                <i class="flex-shrink-0 icon-base bx bx-credit-card icon-md me-3"></i><span class="flex-grow-1 align-middle">Billing Plan</span>
-                <span class="flex-shrink-0 badge rounded-pill bg-danger">4</span>
-              </span>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-pricing.html"> <i class="icon-base bx bx-dollar icon-md me-3"></i><span>Pricing</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-faq.html"> <i class="icon-base bx bx-help-circle icon-md me-3"></i><span>FAQ</span> </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="auth-login-cover.html" target="_blank"> <i class="icon-base bx bx-power-off icon-md me-3"></i><span>Log Out</span> </a>
-          </li>
-        </ul>
-      </li>
+      <?php Flight::render('resources/views/components/dropdown-user') ?>
       <!--/ User -->
     
   </ul>
@@ -1821,56 +1744,13 @@
         <div class="container-xxl flex-grow-1 container-p-y">
           
   <!-- Header -->
-  <div class="row">
-    <div class="col-12">
-      <div class="card mb-6">
-        <div class="user-profile-header-banner">
-          <img src="../../assets/img/pages/profile-banner.png" alt="Banner image" class="rounded-top" />
-        </div>
-        <div class="user-profile-header d-flex flex-column flex-lg-row text-sm-start text-center mb-8">
-          <div class="flex-shrink-0 mt-1 mx-sm-0 mx-auto">
-            <img src="../../assets/img/avatars/1.png" alt="user image" class="d-block h-auto ms-0 ms-sm-6 rounded-3 user-profile-img" />
-          </div>
-          <div class="flex-grow-1 mt-3 mt-lg-5">
-            <div class="d-flex align-items-md-end align-items-sm-start align-items-center justify-content-md-between justify-content-start mx-5 flex-md-row flex-column gap-4">
-              <div class="user-profile-info">
-                <h4 class="mb-2 mt-lg-7">John Doe</h4>
-                <ul class="list-inline mb-0 d-flex align-items-center flex-wrap justify-content-sm-start justify-content-center gap-4 mt-4">
-                  <li class="list-inline-item"><i class="icon-base bx bx-palette me-2 align-top"></i><span class="fw-medium">UX Designer</span></li>
-                  <li class="list-inline-item"><i class="icon-base bx bx-map me-2 align-top"></i><span class="fw-medium">Vatican City</span></li>
-                  <li class="list-inline-item"><i class="icon-base bx bx-calendar me-2 align-top"></i><span class="fw-medium"> Joined April 2021</span></li>
-                </ul>
-              </div>
-              <a href="javascript:void(0)" class="btn btn-primary mb-1"> <i class="icon-base bx bx-user-check icon-sm me-2"></i>Connected </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <?php Flight::render('resources/views/components/profile-header') ?>
   <!--/ Header -->
 
   <!-- Navbar pills -->
-  <div class="row">
-    <div class="col-md-12">
-      <div class="nav-align-top">
-        <ul class="nav nav-pills flex-column flex-sm-row mb-6 gap-sm-0 gap-2">
-          <li class="nav-item">
-            <a class="nav-link active" href="javascript:void(0);"><i class="icon-base bx bx-user icon-sm me-1_5"></i> Profile</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-profile-teams.html"><i class="icon-base bx bx-group icon-sm me-1_5"></i> Teams</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-profile-projects.html"><i class="icon-base bx bx-grid-alt icon-sm me-1_5"></i> Projects</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="pages-profile-connections.html"><i class="icon-base bx bx-link icon-sm me-1_5"></i> Connections</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
+  <?php Flight::render('resources/views/components/profile-navbar', [
+    'activeLink' => 'user',
+  ]) ?>
   <!--/ Navbar pills -->
 
   <!-- User Profile Content -->
@@ -1879,19 +1759,25 @@
       <!-- About User -->
       <div class="card mb-6">
         <div class="card-body">
-          <small class="card-text text-uppercase text-body-secondary small">About</small>
+          <small class="card-text text-uppercase text-body-secondary small">Acerca de</small>
           <ul class="list-unstyled my-3 py-1">
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-user"></i><span class="fw-medium mx-2">Full Name:</span> <span>John Doe</span></li>
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-check"></i><span class="fw-medium mx-2">Status:</span> <span>Active</span></li>
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-crown"></i><span class="fw-medium mx-2">Role:</span> <span>Developer</span></li>
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-flag"></i><span class="fw-medium mx-2">Country:</span> <span>USA</span></li>
-            <li class="d-flex align-items-center mb-2"><i class="icon-base bx bx-detail"></i><span class="fw-medium mx-2">Languages:</span> <span>English</span></li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-user"></i>
+              <span class="fw-medium mx-2">Nombre Completo:</span>
+              <span>
+                <?= auth()->user()->get()['name'] ?>
+                <?= auth()->user()->get()['surname'] ?>
+              </span>
+            </li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-check"></i><span class="fw-medium mx-2">Estado:</span> <span>Activo</span></li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-crown"></i><span class="fw-medium mx-2">Rol:</span> <span>Administrador</span></li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-flag"></i><span class="fw-medium mx-2">País:</span> <span>USA</span></li>
+            <li class="d-flex align-items-center mb-2"><i class="icon-base bx bx-detail"></i><span class="fw-medium mx-2">Idiomas:</span> <span>English</span></li>
           </ul>
-          <small class="card-text text-uppercase text-body-secondary small">Contacts</small>
+          <small class="card-text text-uppercase text-body-secondary small">Contacto</small>
           <ul class="list-unstyled my-3 py-1">
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-phone"></i><span class="fw-medium mx-2">Contact:</span> <span>(123) 456-7890</span></li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-phone"></i><span class="fw-medium mx-2">Teléfono:</span> <span>(123) 456-7890</span></li>
             <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-chat"></i><span class="fw-medium mx-2">Skype:</span> <span>john.doe</span></li>
-            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-envelope"></i><span class="fw-medium mx-2">Email:</span> <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="83e9ecebedade7ece6c3e6fbe2eef3efe6ade0ecee">[email&#160;protected]</a></span></li>
+            <li class="d-flex align-items-center mb-4"><i class="icon-base bx bx-envelope"></i><span class="fw-medium mx-2">Correo:</span> <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="83e9ecebedade7ece6c3e6fbe2eef3efe6ade0ecee">[email&#160;protected]</a></span></li>
           </ul>
           <small class="card-text text-uppercase text-body-secondary small">Teams</small>
           <ul class="list-unstyled mb-0 mt-3 pt-1">
