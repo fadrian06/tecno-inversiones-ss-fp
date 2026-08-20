@@ -37,6 +37,7 @@ Flight::group('/html/vertical-menu-template', static function (): void {
   Flight::group('/pages-account-settings-', static function (): void {
     Flight::route('GET @page.html', [AccountSettingsController::class, 'render']);
     Flight::route('POST account(.html)', [AccountSettingsController::class, 'update']);
+    Flight::route('POST security(.html)', [AccountSettingsController::class, 'updatePassword']);
   }, [Authenticate::class]);
 
   Flight::group('/auth-login-basic(.html)', static function (): void {

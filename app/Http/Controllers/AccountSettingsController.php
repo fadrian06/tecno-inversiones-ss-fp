@@ -36,4 +36,22 @@ final readonly class AccountSettingsController extends Controller
 
     Flight::redirect(Flight::request()->url);
   }
+
+  public function updatePassword(): void
+  {
+    $validatedData = $this->validate([
+      'currentPassword' => 'string',
+      'newPassword' => 'min:8',
+      'confirmPassword' => 'matchesvalueof<newPassword>',
+    ]);
+
+    if (!auth()->updatePassword(
+      $validatedData['currentPassword'],
+      $validatedData['newPassword'],
+    )) {
+      flash()->set(auth()->errors());
+    }
+
+    Flight::redirect(Flight::request()->url);
+  }
 }

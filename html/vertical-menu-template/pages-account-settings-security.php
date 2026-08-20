@@ -69,7 +69,7 @@
     <meta name="robots" content="noindex, nofollow" />
 
     
-      <title>Demo: Account settings - Security | Sneat - Bootstrap Dashboard PRO</title>
+      <title>Demo: Ajustes de la Cuenta - Seguridad | Sneat - Bootstrap Dashboard PRO</title>
     
 
     
@@ -108,7 +108,7 @@
     <!-- Fonts -->
     
     
-    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
+    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
 
     <link rel="stylesheet" href="../../assets/vendor/fonts/iconify-icons.css" />
 
@@ -1446,29 +1446,7 @@
 
       
         <!-- Style Switcher -->
-        <li class="nav-item dropdown me-2 me-xl-0">
-          <a class="nav-link dropdown-toggle hide-arrow" id="nav-theme" href="javascript:void(0);" data-bs-toggle="dropdown">
-            <i class="icon-base bx bx-sun icon-md theme-icon-active"></i>
-            <span class="d-none ms-2" id="nav-theme-text">Toggle theme</span>
-          </a>
-          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-theme-text">
-            <li>
-              <button type="button" class="dropdown-item align-items-center active" data-bs-theme-value="light" aria-pressed="false">
-                <span><i class="icon-base bx bx-sun icon-md me-3" data-icon="sun"></i>Light</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="dark" aria-pressed="true">
-                <span><i class="icon-base bx bx-moon icon-md me-3" data-icon="moon"></i>Dark</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="system" aria-pressed="false">
-                <span><i class="icon-base bx bx-desktop icon-md me-3" data-icon="desktop"></i>System</span>
-              </button>
-            </li>
-          </ul>
-        </li>
+        <?php Flight::render('resources/views/components/style-switcher') ?>
         <!-- / Style Switcher-->
       
 
@@ -1749,62 +1727,7 @@
       </li>
       <!--/ Notification -->
       <!-- User -->
-      <li class="nav-item navbar-dropdown dropdown-user dropdown">
-        <a class="nav-link dropdown-toggle hide-arrow p-0" href="javascript:void(0);" data-bs-toggle="dropdown">
-          <div class="avatar avatar-online">
-            <img src="../../assets/img/avatars/1.png" alt class="rounded-circle" />
-          </div>
-        </a>
-        <ul class="dropdown-menu dropdown-menu-end">
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html">
-              <div class="d-flex">
-                <div class="flex-shrink-0 me-3">
-                  <div class="avatar avatar-online">
-                    <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
-                  </div>
-                </div>
-                <div class="flex-grow-1">
-                  <h6 class="mb-0">John Doe</h6>
-                  <small class="text-body-secondary">Admin</small>
-                </div>
-              </div>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-profile-user.html"> <i class="icon-base bx bx-user icon-md me-3"></i><span>My Profile</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html"> <i class="icon-base bx bx-cog icon-md me-3"></i><span>Settings</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-billing.html">
-              <span class="d-flex align-items-center align-middle">
-                <i class="flex-shrink-0 icon-base bx bx-credit-card icon-md me-3"></i><span class="flex-grow-1 align-middle">Billing Plan</span>
-                <span class="flex-shrink-0 badge rounded-pill bg-danger">4</span>
-              </span>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-pricing.html"> <i class="icon-base bx bx-dollar icon-md me-3"></i><span>Pricing</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-faq.html"> <i class="icon-base bx bx-help-circle icon-md me-3"></i><span>FAQ</span> </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="auth-login-cover.html" target="_blank"> <i class="icon-base bx bx-power-off icon-md me-3"></i><span>Log Out</span> </a>
-          </li>
-        </ul>
-      </li>
+      <?php Flight::render('resources/views/components/dropdown-user') ?>
       <!--/ User -->
     
   </ul>
@@ -1825,30 +1748,31 @@
       <div class="nav-align-top">
         <ul class="nav nav-pills flex-column flex-md-row mb-6 gap-md-0 gap-2">
           <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-account.html"><i class="icon-base bx bx-user icon-sm me-1_5"></i> Account</a>
+            <a class="nav-link" href="pages-account-settings-account.html"><i class="icon-base bx bx-user icon-sm me-1_5"></i> Cuenta</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="javascript:void(0);"><i class="icon-base bx bx-lock-alt icon-sm me-1_5"></i> Security</a>
+            <a class="nav-link active" href="javascript:void(0);"><i class="icon-base bx bx-lock-alt icon-sm me-1_5"></i> Seguridad</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-billing.html"><i class="icon-base bx bx-detail icon-sm me-1_5"></i> Billing & Plans</a>
+            <a class="nav-link" href="pages-account-settings-billing.html"><i class="icon-base bx bx-detail icon-sm me-1_5"></i> Facturación & Planes</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-notifications.html"><i class="icon-base bx bx-bell icon-sm me-1_5"></i> Notifications</a>
+            <a class="nav-link" href="pages-account-settings-notifications.html"><i class="icon-base bx bx-bell icon-sm me-1_5"></i> Notificaciones</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages-account-settings-connections.html"><i class="icon-base bx bx-link-alt icon-sm me-1_5"></i> Connections</a>
+            <a class="nav-link" href="pages-account-settings-connections.html"><i class="icon-base bx bx-link-alt icon-sm me-1_5"></i> Conexiones</a>
           </li>
         </ul>
       </div>
       <!-- Change Password -->
       <div class="card mb-6">
-        <h5 class="card-header">Change Password</h5>
+        <h5 class="card-header">Cambiar Contraseña</h5>
         <div class="card-body pt-1">
-          <form id="formAccountSettings" method="GET" onsubmit="return false">
+          <?php dump(flash()->display()) ?>
+          <form id="formAccountSettings" method="post">
             <div class="row">
               <div class="mb-6 col-md-6 form-password-toggle form-control-validation">
-                <label class="form-label" for="currentPassword">Current Password</label>
+                <label class="form-label" for="currentPassword">Contraseña Actual</label>
                 <div class="input-group input-group-merge">
                   <input class="form-control" type="password" name="currentPassword" id="currentPassword" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" />
                   <span class="input-group-text cursor-pointer"><i class="icon-base bx bx-hide"></i></span>
@@ -1857,7 +1781,7 @@
             </div>
             <div class="row">
               <div class="mb-6 col-md-6 form-password-toggle form-control-validation">
-                <label class="form-label" for="newPassword">New Password</label>
+                <label class="form-label" for="newPassword">Nueva Contraseña</label>
                 <div class="input-group input-group-merge">
                   <input class="form-control" type="password" id="newPassword" name="newPassword" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" />
                   <span class="input-group-text cursor-pointer"><i class="icon-base bx bx-hide"></i></span>
@@ -1865,22 +1789,22 @@
               </div>
 
               <div class="mb-6 col-md-6 form-password-toggle form-control-validation">
-                <label class="form-label" for="confirmPassword">Confirm New Password</label>
+                <label class="form-label" for="confirmPassword">Confirmar Nueva Contraseña</label>
                 <div class="input-group input-group-merge">
                   <input class="form-control" type="password" name="confirmPassword" id="confirmPassword" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" />
                   <span class="input-group-text cursor-pointer"><i class="icon-base bx bx-hide"></i></span>
                 </div>
               </div>
             </div>
-            <h6 class="text-body">Password Requirements:</h6>
+            <h6 class="text-body">Requisitos de la Contraseña:</h6>
             <ul class="ps-4 mb-0">
-              <li class="mb-4">Minimum 8 characters long - the more, the better</li>
-              <li class="mb-4">At least one lowercase character</li>
-              <li>At least one number, symbol, or whitespace character</li>
+              <li class="mb-4">Mínimo 8 caracteres - cuantos más, mejor</li>
+              <li class="mb-4">Al menos un carácter en minúscula</li>
+              <li>Al menos un número, símbolo o carácter de espacio en blanco</li>
             </ul>
             <div class="mt-6">
-              <button type="submit" class="btn btn-primary me-3">Save changes</button>
-              <button type="reset" class="btn btn-label-secondary">Reset</button>
+              <button type="submit" class="btn btn-primary me-3" onclick="this.form.submit()">Guardar cambios</button>
+              <button type="reset" class="btn btn-label-secondary">Restablecer</button>
             </div>
           </form>
         </div>
@@ -2132,9 +2056,9 @@
 <!-- / Layout wrapper -->
 
     
-      <div class="buy-now">
+      <!-- <div class="buy-now">
         <a href="https://themeselection.com/item/sneat-dashboard-pro-bootstrap/" target="_blank" class="btn btn-danger btn-buy-now">Buy Now</a>
-      </div>
+      </div> -->
     
 
     
@@ -2183,7 +2107,7 @@
     <script src="../../assets/js/pages-account-settings-security.js"></script>
   <script src="../../assets/js/modal-enable-otp.js"></script>
     
-  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2c2ed2f299e6b81',t:'MTc4NjkwOTM5MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2c2ed2f299e6b81',t:'MTc4NjkwOTM5MQ=='};var a=document.createElement('script');a.src='<?= $_ENV['APP_URL'] ?>/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
 
   <!-- beautify ignore:end -->
