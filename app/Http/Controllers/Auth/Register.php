@@ -21,7 +21,11 @@ final readonly class Register extends Controller implements InvokableController
       'terms' => 'boolean',
     ]);
 
-    if (auth()->register($validatedData)) {
+    if (auth()->register([
+      'username' => $validatedData['username'],
+      'email' => $validatedData['email'],
+      'password' => $validatedData['password'],
+    ])) {
       return Flight::redirect('/html/vertical-menu-template/app-ecommerce-dashboard.html');
     }
 
