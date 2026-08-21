@@ -69,7 +69,7 @@
     <meta name="robots" content="noindex, nofollow" />
 
     
-      <title>Demo: Settings Store Details - eCommerce | Sneat - Bootstrap Dashboard PRO</title>
+      <title>Demo: Ajustes de los Detalles de la Tienda - eCommerce | Sneat - Bootstrap Dashboard PRO</title>
     
 
     
@@ -108,7 +108,7 @@
     <!-- Fonts -->
     
     
-    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+    <style type="text/css">@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:normal;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:300;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:400;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:500;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:600;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin/wght/italic.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/vietnamese/wght/italic.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Public Sans';font-style:italic;font-weight:700;src:url(<?= $_ENV['APP_URL'] ?>/cf-fonts/v/public-sans/5.2.7/latin-ext/wght/italic.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
 
     <link rel="stylesheet" href="../../assets/vendor/fonts/iconify-icons.css" />
 
@@ -1445,29 +1445,7 @@
 
       
         <!-- Style Switcher -->
-        <li class="nav-item dropdown me-2 me-xl-0">
-          <a class="nav-link dropdown-toggle hide-arrow" id="nav-theme" href="javascript:void(0);" data-bs-toggle="dropdown">
-            <i class="icon-base bx bx-sun icon-md theme-icon-active"></i>
-            <span class="d-none ms-2" id="nav-theme-text">Toggle theme</span>
-          </a>
-          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-theme-text">
-            <li>
-              <button type="button" class="dropdown-item align-items-center active" data-bs-theme-value="light" aria-pressed="false">
-                <span><i class="icon-base bx bx-sun icon-md me-3" data-icon="sun"></i>Light</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="dark" aria-pressed="true">
-                <span><i class="icon-base bx bx-moon icon-md me-3" data-icon="moon"></i>Dark</span>
-              </button>
-            </li>
-            <li>
-              <button type="button" class="dropdown-item align-items-center" data-bs-theme-value="system" aria-pressed="false">
-                <span><i class="icon-base bx bx-desktop icon-md me-3" data-icon="desktop"></i>System</span>
-              </button>
-            </li>
-          </ul>
-        </li>
+        <?php Flight::render('resources/views/components/style-switcher') ?>
         <!-- / Style Switcher-->
       
 
@@ -1748,62 +1726,7 @@
       </li>
       <!--/ Notification -->
       <!-- User -->
-      <li class="nav-item navbar-dropdown dropdown-user dropdown">
-        <a class="nav-link dropdown-toggle hide-arrow p-0" href="javascript:void(0);" data-bs-toggle="dropdown">
-          <div class="avatar avatar-online">
-            <img src="../../assets/img/avatars/1.png" alt class="rounded-circle" />
-          </div>
-        </a>
-        <ul class="dropdown-menu dropdown-menu-end">
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html">
-              <div class="d-flex">
-                <div class="flex-shrink-0 me-3">
-                  <div class="avatar avatar-online">
-                    <img src="../../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
-                  </div>
-                </div>
-                <div class="flex-grow-1">
-                  <h6 class="mb-0">John Doe</h6>
-                  <small class="text-body-secondary">Admin</small>
-                </div>
-              </div>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-profile-user.html"> <i class="icon-base bx bx-user icon-md me-3"></i><span>My Profile</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-account.html"> <i class="icon-base bx bx-cog icon-md me-3"></i><span>Settings</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-account-settings-billing.html">
-              <span class="d-flex align-items-center align-middle">
-                <i class="flex-shrink-0 icon-base bx bx-credit-card icon-md me-3"></i><span class="flex-grow-1 align-middle">Billing Plan</span>
-                <span class="flex-shrink-0 badge rounded-pill bg-danger">4</span>
-              </span>
-            </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-pricing.html"> <i class="icon-base bx bx-dollar icon-md me-3"></i><span>Pricing</span> </a>
-          </li>
-          <li>
-            <a class="dropdown-item" href="pages-faq.html"> <i class="icon-base bx bx-help-circle icon-md me-3"></i><span>FAQ</span> </a>
-          </li>
-          <li>
-            <div class="dropdown-divider my-1"></div>
-          </li>
-          <li>
-            <a class="dropdown-item" href="auth-login-cover.html" target="_blank"> <i class="icon-base bx bx-power-off icon-md me-3"></i><span>Log Out</span> </a>
-          </li>
-        </ul>
-      </li>
+      <?php Flight::render('resources/views/components/dropdown-user') ?>
       <!--/ User -->
     
   </ul>
@@ -1821,95 +1744,57 @@
           
   <div class="row g-6">
     <!-- Navigation -->
-    <div class="col-12 col-lg-4">
-      <div class="d-flex justify-content-between flex-column mb-4 mb-md-0">
-        <h5 class="mb-4">Getting Started</h5>
-        <ul class="nav nav-align-left nav-pills flex-column">
-          <li class="nav-item mb-1">
-            <a class="nav-link active" href="javascript:void(0);">
-              <i class="icon-base bx bx-store-alt icon-18px me-1_5"></i>
-              <span class="align-middle">Store details</span>
-            </a>
-          </li>
-          <li class="nav-item mb-1">
-            <a class="nav-link" href="app-ecommerce-settings-payments.html">
-              <i class="icon-base bx bx-credit-card icon-18px me-1_5"></i>
-              <span class="align-middle">Payments</span>
-            </a>
-          </li>
-          <li class="nav-item mb-1">
-            <a class="nav-link" href="app-ecommerce-settings-checkout.html">
-              <i class="icon-base bx bx-cart icon-18px me-1_5"></i>
-              <span class="align-middle">Checkout</span>
-            </a>
-          </li>
-          <li class="nav-item mb-1">
-            <a class="nav-link" href="app-ecommerce-settings-shipping.html">
-              <i class="icon-base bx bx-package icon-18px me-1_5"></i>
-              <span class="align-middle">Shipping & delivery</span>
-            </a>
-          </li>
-          <li class="nav-item mb-1">
-            <a class="nav-link" href="app-ecommerce-settings-locations.html">
-              <i class="icon-base bx bx-map icon-18px me-1_5"></i>
-              <span class="align-middle">Locations</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="app-ecommerce-settings-notifications.html">
-              <i class="icon-base bx bx-bell icon-18px me-1_5"></i>
-              <span class="align-middle">Notifications</span>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
+    <?php Flight::render('resources/views/components/ecommerce-settings-navigation', [
+      'activeLink' => 'details',
+    ]) ?>
     <!-- /Navigation -->
 
     <!-- Options -->
     <div class="col-12 col-lg-8 pt-6 pt-lg-0">
       <div class="tab-content p-0">
         <!-- Store Details Tab -->
-        <div class="tab-pane fade show active" id="store_details" role="tabpanel">
+        <?php dump(flash()->display()) ?>
+        <form class="tab-pane fade show active" id="store_details" role="tabpanel" method="post">
+          <input type="hidden" name="pk" value="<?= session()->get('business.name') ?>" required />
           <div class="card mb-6">
             <div class="card-header">
-              <h5 class="card-title m-0">Profile</h5>
+              <h5 class="card-title m-0">Perfil</h5>
             </div>
             <div class="card-body">
               <div class="row mb-6 g-6">
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="ecommerce-settings-details-name">Store Name</label>
-                  <input type="text" class="form-control" id="ecommerce-settings-details-name" placeholder="John Doe" name="settingsDet" aria-label="settings Details" />
+                  <label class="form-label mb-1" for="ecommerce-settings-details-name">Nombre de la Tienda</label>
+                  <input type="text" class="form-control" id="ecommerce-settings-details-name" placeholder="John Doe" name="settingsDet" aria-label="settings Details" value="<?= session()->get('business.name') ?>" />
                 </div>
 
-                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-details-phone">Phone</label> <input type="tel" class="form-control phone-mask" id="ecommerce-settings-details-phone" placeholder="+(123) 456-7890" name="phone" aria-label="phone" /></div>
+                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-details-phone">Teléfono</label> <input type="tel" class="form-control phone-mask" id="ecommerce-settings-details-phone" placeholder="+(123) 456-7890" name="phone" aria-label="phone" value="<?= session()->get('business.phones')[0] ?? '' ?>" /></div>
 
-                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-details-email">Store contact email</label> <input type="email" class="form-control" id="ecommerce-settings-details-email" placeholder="johndoe@gmail.com" name="email" aria-label="email" /></div>
+                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-details-email">Correo de contacto de la tienda</label> <input type="email" class="form-control" id="ecommerce-settings-details-email" placeholder="johndoe@gmail.com" name="email" aria-label="email" /></div>
 
-                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-sender-email">Sender email</label> <input type="email" class="form-control" id="ecommerce-settings-sender-email" placeholder="johndoe@gmail.com" name="sender_email" aria-label="sender email" /></div>
+                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-sender-email">Correo del remitente</label> <input type="email" class="form-control" id="ecommerce-settings-sender-email" placeholder="johndoe@gmail.com" name="sender_email" aria-label="sender email" /></div>
               </div>
 
               <div class="alert d-flex align-items-center alert-warning mb-0 h5 flex-wrap" role="alert">
                 <span class="alert-icon me-3 rounded-circle">
                   <i class="icon-base bx bx-bell icon-18px"></i>
                 </span>
-                Confirm that you have access to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f59f9a9d9b919a90b59298949c99db969a98">[email&#160;protected]</a> in sender email settings.
+                Confirma que tienes acceso a <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f59f9a9d9b919a90b59298949c99db969a98">[email&#160;protected]</a> en los ajustes del correo del remitente.
               </div>
             </div>
           </div>
 
           <div class="card mb-6">
             <div class="card-header">
-              <h5 class="card-title m-0">Billing information</h5>
+              <h5 class="card-title m-0">Información de Facturación</h5>
             </div>
             <div class="card-body">
               <div class="row g-6">
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="business-name">Legal business name</label>
-                  <input type="text" id="business-name" class="form-control" placeholder="Business name" />
+                  <label class="form-label mb-1" for="business-name">Nombre legal del negocio</label>
+                  <input type="text" id="business-name" class="form-control" placeholder="Nombre del negocio" name="business-name" value="<?= session()->get('business.name') ?>" />
                 </div>
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="country_region">Country/region</label>
+                  <label class="form-label mb-1" for="country_region">País/región</label>
                   <select id="country_region" class="select2 form-select" data-placeholder="United States">
                     <option value="">United States</option>
                     <option value="Australia">Australia</option>
@@ -1939,23 +1824,23 @@
                   </select>
                 </div>
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="bill_address">Address</label>
-                  <input type="text" id="bill_address" class="form-control" placeholder="Address" />
+                  <label class="form-label mb-1" for="bill_address">Dirección</label>
+                  <input type="text" id="bill_address" class="form-control" placeholder="Address" name="bill_address" value="<?= session()->get('business.address') ?>" />
                 </div>
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="apa_suite">Apartment, suite, etc.</label>
+                  <label class="form-label mb-1" for="apa_suite">Apartamento, suite, etc.</label>
                   <input type="text" id="apa_suite" class="form-control" placeholder="Apartment, suite, etc." />
                 </div>
                 <div class="col-12 col-md-4">
-                  <label class="form-label mb-1" for="bill_city">City</label>
+                  <label class="form-label mb-1" for="bill_city">Ciudad</label>
                   <input type="text" id="bill_city" class="form-control" placeholder="City" />
                 </div>
                 <div class="col-12 col-md-4">
-                  <label class="form-label mb-1" for="bill_state">State</label>
+                  <label class="form-label mb-1" for="bill_state">Estado</label>
                   <input type="text" id="bill_state" class="form-control" placeholder="State" />
                 </div>
                 <div class="col-12 col-md-4">
-                  <label class="form-label mb-1" for="bill_pincode">PIN Code</label>
+                  <label class="form-label mb-1" for="bill_pincode">Código PIN</label>
                   <input type="number" id="bill_pincode" class="form-control" placeholder="PIN Code" min="0" max="999999" />
                 </div>
               </div>
@@ -1965,14 +1850,14 @@
           <div class="card mb-6">
             <div class="card-header">
               <div class="card-title mb-0">
-                <h5 class="m-0">Time zone and units of measurement</h5>
-                <p class="my-0 card-subtitle">Used to calculate product prices, shipping weighs, and order times.</p>
+                <h5 class="m-0">Zona horaria y unidades de medida</h5>
+                <p class="my-0 card-subtitle">Se utiliza para calcular los precios de los productos, el peso del envío y los tiempos de los pedidos.</p>
               </div>
             </div>
             <div class="card-body">
               <div class="row g-6">
                 <div class="col-12">
-                  <label for="timeZones" class="form-label mb-1">Time zone</label>
+                  <label for="timeZones" class="form-label mb-1">Zona horaria</label>
                   <select id="timeZones" class="select2 form-select" data-placeholder="(GMT-12:00) International Date Line West">
                     <option value="">(GMT-12:00) International Date Line West</option>
                     <option value="-12">(GMT-12:00) International Date Line West</option>
@@ -1996,23 +1881,23 @@
                   </select>
                 </div>
                 <div class="col-12 col-md-6">
-                  <label for="unitSystemDropdown" class="form-label mb-1">Unit system</label>
+                  <label for="unitSystemDropdown" class="form-label mb-1">Sistema de unidades</label>
                   <select id="unitSystemDropdown" class="select2 form-select" data-placeholder="Metric">
-                    <option value="">Metric</option>
-                    <option value="metric">Metric</option>
+                    <option value="">Métrico</option>
+                    <option value="metric">Métrico</option>
                     <option value="imperial">Imperial</option>
                     <option value="us">US Customary</option>
-                    <option value="si">International System</option>
+                    <option value="si">Sistema Internacional</option>
                   </select>
                 </div>
                 <div class="col-12 col-md-6">
-                  <label for="weightUnits" class="form-label mb-1">Default weight unit</label>
+                  <label for="weightUnits" class="form-label mb-1">Unidad de peso por defecto</label>
                   <select id="weightUnits" class="select2 form-select" data-placeholder="Kilograms">
-                    <option value="">Kilograms</option>
-                    <option value="kg">Kilograms</option>
+                    <option value="">Kilogramos</option>
+                    <option value="kg">Kilogramos</option>
                     <option value="lb">Pounds</option>
-                    <option value="g">Grams</option>
-                    <option value="mg">Milligrams</option>
+                    <option value="g">Gramos</option>
+                    <option value="mg">Miligramos</option>
                   </select>
                 </div>
               </div>
@@ -2022,15 +1907,15 @@
           <div class="card mb-6">
             <div class="card-header">
               <div class="card-title mb-0">
-                <h5 class="m-0">Store currency</h5>
-                <p class="my-0 card-subtitle">The currency your products are sold in.</p>
+                <h5 class="m-0">Moneda de la tienda</h5>
+                <p class="my-0 card-subtitle">La moneda en la que se venden sus productos.</p>
               </div>
             </div>
             <div class="card-body">
               <div>
-                <label for="currency-store" class="form-label mb-1">Store currency</label>
+                <label for="currency-store" class="form-label mb-1">Monedad de la tienda</label>
                 <select id="currency-store" class="select2 form-select" data-placeholder="Store currency">
-                  <option value="">Store Currency</option>
+                  <option value="">Moneda de la Tienda</option>
                   <option value="usd">USD</option>
                   <option value="euro">Euro</option>
                   <option value="pound">Pound</option>
@@ -2043,30 +1928,30 @@
           <div class="card mb-6">
             <div class="card-header">
               <div class="card-title mb-0">
-                <h5 class="m-0">Order id format</h5>
-                <p class="my-0 card-subtitle">Shown on the Orders page, customer pages, and customer order notifications to identify orders.</p>
+                <h5 class="m-0">Formato de identificación del pedido</h5>
+                <p class="my-0 card-subtitle">Se muestra en la página Pedidos, páginas de clientes y notificaciones de pedidos de clientes para identificar pedidos.</p>
               </div>
             </div>
             <div class="card-body">
               <div class="row g-6">
                 <div class="col-12 col-md-6">
-                  <label class="form-label mb-1" for="ecommerce-settings-details-prefix">Prefix</label>
+                  <label class="form-label mb-1" for="ecommerce-settings-details-prefix">Prefijo</label>
                   <div class="input-group input-group-merge">
                     <span class="input-group-text text-body-secondary">#</span>
                     <input type="number" class="form-control" id="ecommerce-settings-details-prefix" name="prefix" aria-label="Prefix" min="0" />
                   </div>
-                  <p class="mb-0 pt-2">Your order ID will appear as #1001, #1002, #1003 ...</p>
+                  <p class="mb-0 pt-2">El ID de su pedido aparecerá como #1001, #1002, #1003 ...</p>
                 </div>
-                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-sender-suffix">Suffix</label> <input type="text" class="form-control" id="ecommerce-settings-sender-suffix" name="suffix" aria-label="Suffix" /></div>
+                <div class="col-12 col-md-6"><label class="form-label mb-1" for="ecommerce-settings-sender-suffix">Sufijo</label> <input type="text" class="form-control" id="ecommerce-settings-sender-suffix" name="suffix" aria-label="Suffix" /></div>
               </div>
             </div>
           </div>
 
           <div class="d-flex justify-content-end gap-4">
-            <button type="reset" class="btn btn-label-secondary">Discard</button>
-            <a class="btn btn-primary" href="app-ecommerce-settings-payments.html">Save Changes</a>
+            <button type="reset" class="btn btn-label-secondary">Descartar</button>
+            <button type="submit" class="btn btn-primary">Guardar Cambios</a>
           </div>
-        </div>
+        </form>
       </div>
     </div>
     <!-- /Options-->
@@ -2084,7 +1969,7 @@
     <div class="footer-container d-flex align-items-center justify-content-between py-4 flex-md-row flex-column">
       <div class="mb-2 mb-md-0">
         ©
-        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        <script data-cfasync="false" src="<?= $_ENV['APP_URL'] ?>/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
           document.write(new Date().getFullYear());
         </script>
         , made with ❤️ by <a href="https://themeselection.com" target="_blank" class="footer-link">ThemeSelection</a>
@@ -2126,9 +2011,9 @@
 <!-- / Layout wrapper -->
 
     
-      <div class="buy-now">
+      <!-- <div class="buy-now">
         <a href="https://themeselection.com/item/sneat-dashboard-pro-bootstrap/" target="_blank" class="btn btn-danger btn-buy-now">Buy Now</a>
-      </div>
+      </div> -->
     
 
     
@@ -2173,7 +2058,7 @@
     <!-- Page JS -->
     <script src="../../assets/js/app-ecommerce-settings.js"></script>
     
-  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2c2e7b629fb7429',t:'MTc4NjkwOTE2Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a2c2e7b629fb7429',t:'MTc4NjkwOTE2Nw=='};var a=document.createElement('script');a.src='<?= $_ENV['APP_URL'] ?>/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
 
   <!-- beautify ignore:end -->

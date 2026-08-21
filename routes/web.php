@@ -5,6 +5,7 @@ declare(strict_types=1);
 use App\Http\Controllers\{
   AccountSettingsController,
   ComingSoonController,
+  EcommerceSettingsController,
   ForgotPasswordController,
   ResetPasswordController,
 };
@@ -33,6 +34,11 @@ Flight::group('/html/vertical-menu-template', static function (): void {
   Flight::route('GET /app-ecommerce-dashboard(.html)', static function (): void {
     Flight::render('html/vertical-menu-template/app-ecommerce-dashboard');
   })->addMiddleware(Authenticate::class);
+
+  Flight::group('/app-ecommerce-settings-', static function (): void {
+    Flight::route('GET @page.html', [EcommerceSettingsController::class, 'render']);
+    Flight::route('POST detail(.html)', [EcommerceSettingsController::class, 'update']);
+  }, [Authenticate::class]);
 
   Flight::group('/pages-account-settings-', static function (): void {
     Flight::route('GET @page.html', [AccountSettingsController::class, 'render']);
