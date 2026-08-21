@@ -17,18 +17,17 @@ final readonly class ComingSoonController extends Controller
   {
     $validatedData = $this->validate(['email' => 'email']);
 
-    auth()
-      ->db()
-      ->insert('coming_soon_emails')
-      ->unique('email')
-      ->params($validatedData)
-      ->execute();
-
-    if (auth()->db()->errors()) {
+    if (
+      !auth()
+        ->db()
+        ->insert('coming_soon_emails')
+        ->unique('email')
+        ->params($validatedData)
+        ->execute()
+    ) {
       flash()->set(auth()->db()->errors());
-      Flight::redirect(Flight::request()->url);
-
-      return;
     }
+
+    Flight::redirect(Flight::request()->url);
   }
 }
