@@ -13,7 +13,9 @@ final readonly class Authenticate implements BeforeMiddleware
   public function before()
   {
     if (!auth()->user()) {
-      return Flight::redirect('/html/vertical-menu-template/auth-login-basic.html');
+      Flight::redirect('/html/vertical-menu-template/auth-login-basic.html');
+
+      exit;
     }
   }
 }
