@@ -76,6 +76,8 @@ Flight::set('flight.handle_errors', false);
 Flight::set('flight.views.path', __DIR__);
 Flight::registerContainerHandler(Container::getInstance());
 
-require_once __DIR__ . '/routes/web.php';
+foreach (glob(__DIR__ . '/routes/*.php') as $routes) {
+  require_once $routes;
+}
 
 Flight::start();
