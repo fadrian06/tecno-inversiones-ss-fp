@@ -1,5 +1,6 @@
 {
   "require": {
+    "php": ">=8.2",
     "flightphp/core": "^3.19",
     "leafs/auth": "^5.1",
     "leafs/leaf": "^5.0",
